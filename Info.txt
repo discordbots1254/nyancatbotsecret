@@ -1,0 +1,5 @@
+Cilent ID: 370648903982383105
+
+Discord Invite Bot: https://discordapp.com/oauth2/authorize?client_id=370648903982383105&scope=bot&permissions=2146948351
+
+Token (Do Not Share): MzcwNjQ4OTAzOTgyMzgzMTA1.DMqJNw.aKwRpkCY9lZz7Aj2Ewf6zKLWr1A
